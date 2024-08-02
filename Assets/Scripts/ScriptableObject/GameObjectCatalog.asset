@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c90ff8d97a341c42a5902e1b797bffe, type: 3}
+  m_Name: GameObjectCatalog
+  m_EditorClassIdentifier: 
+  bullet: {fileID: 8145827683526306348, guid: e36bad482347d9e459df8fd8dda09df3, type: 3}
+  enemy: {fileID: 2141025754149814058, guid: fd267aff9bc1eb44585e46030ea7ac81, type: 3}
+  ammo: {fileID: 6467938935325356281, guid: b22f04e628adb5a4ba7e32f46a30964f, type: 3}
